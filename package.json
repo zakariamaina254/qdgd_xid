@@ -1,0 +1,19 @@
+{
+  "name": "qdgd_xid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakariamaina254/qdgd_xid"
+  },
+  "keywords": [],
+  "author": "zakariamaina254",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
